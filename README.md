@@ -1,7 +1,7 @@
 # Space Shooting Game
 ---
 ### Short Description:
-A single player shooting game with interactive features.
+A single player 3D shooting game with interactive features.
 
 ### Prerequisite:
 ```C++```
