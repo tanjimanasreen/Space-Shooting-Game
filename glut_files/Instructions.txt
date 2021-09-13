@@ -1,0 +1,4 @@
+1. Copy and Paste glut.h file --> C:\Program Files\CodeBlocks\MinGW\include\GL
+2. Copy and Paste glut32.lib file --> C:\Program Files\CodeBlocks\MinGW\lib
+3. Copy and Paste glut32.dll file --> for windows 64 bit --> C:\Windows\SysWOW64
+				  --> for windows 32 bit --> C:\Windows\System32
